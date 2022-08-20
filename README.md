@@ -1,2 +1,3 @@
 # movieFinder
-React app for search movies
+React web app for search movies
+Using of Hooks for State managment.
